@@ -21,7 +21,7 @@ Vs. second code running times (2017 and 2018)
 However, the run times slightly fluctuate using different methods to run the code, i.e. that can be often less when we run the code using the *play* button in VBA instead of clicking on the macro button created on the worksheet. It also differs when removing the *for* loop where we have initialized the totalVolumes as below example:
 ![VBA_Challenge_2017_WithoutForLoop](https://github.com/zkt2018/stock-analysis/blob/main/Resources/VBA_Challenge_2017_WithoutForLoop.png)
 
-Vs. with *For* loop:
+Vs. with *for* loop:
 ![VBA_Challenge_2017_forLoop](https://github.com/zkt2018/stock-analysis/blob/main/Resources/VBA_Challenge_2017_forLoop.png)
 
 Since the run time slightly fluctuates between 0.27 and 0.78 seconds by adding/removing and by restarting the workbook or deleting the content and re-running, I let the *for* loop be in the code.
