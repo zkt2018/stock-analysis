@@ -1,4 +1,4 @@
-# **stock-analysis**
+# **Stock Analysis**
 
 ## **Overview of Project**
 Through this module, we used VBA to analyse a stocks dataset to provide the required information for Steve. Steve needs to evaluate some stock data to advise his parents for their investments. For this project, we evaluated a specific company’s volumes and returns, DAQO (with the ticker symbol: *DQ*) following with other companies to find out which had positive returns in 2017 and 2018.
